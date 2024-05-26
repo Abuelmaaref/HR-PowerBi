@@ -1,7 +1,7 @@
 # Atlas Labs HR Power Bi data analysis
 ## Dataset
 This dataset is from datacamp case study "Hr Analysis in Power Bi" [Link](https://www.datacamp.com/courses/case-study-hr-analytics-in-power-bi).
-The dataset includes five dimensions tables:
+### The dataset includes five dimensions tables:
 - Date
 - Education level
 - Employee
