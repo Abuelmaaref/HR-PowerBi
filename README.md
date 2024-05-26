@@ -7,7 +7,7 @@ This dataset is from datacamp case study "Hr Analysis in Power Bi" [Link](https:
 - Employee
 - Rating level
 - Satisfied level
-And one fact table:
+### And one fact table:
 - Performacne rating
 ## Analysis Process
 1. Cleaned the dataset and tables.
