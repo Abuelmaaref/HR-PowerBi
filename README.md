@@ -14,11 +14,11 @@ And one fact table:
 2. Created a table for measures
 3. Created multible DAX measures to be used later in analysis
 ## Reports
-1. Overview:
+1. Overview :
 Inlcudes overview of the whole human resourses of the organization.
-2. Demographics:
+2. Demographics :
 I ncludes analysis of the employees demographics.
-3. Performance Tracker:
+3. Performance Tracker :
 Includes a performance report for every employee.
-4. Attrition:
+4. Attrition :
 A report regarding the attrtion across the organization.
