@@ -10,9 +10,10 @@ The dataset includes five dimensions tables:
 And one fact table:
 - Performacne rating
 ## Analysis Process
-1. Cleaned the dataset and tables
-2. Created a table for measures
-3. Created multible DAX measures to be used later in analysis
+1. Cleaned the dataset and tables.
+2. Created a table for measures.
+3. Created multible DAX measures to be used later in analysis.
+4. Created four reports and their visualizations.
 ## Reports
 1. Overview :
 Inlcudes overview of the whole human resourses of the organization.
